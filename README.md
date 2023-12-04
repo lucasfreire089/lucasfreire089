@@ -1,9 +1,8 @@
 <div>
   
   <h1 align="center">
-    Oi Tudo bem? Eu sou
-    <a href="https://www.linkedin.com/in/lucasfreire089/">Miguel Lucas 😃️</a>
-  </h1>
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+👋;+me+chamo+Miguel!;" />
+</h1>
 
   <p align="center">
 Eu sou Miguel Lucas, um estudante de ciência da computação da UFS (Universidade Federal de Sergipe), atualmente embarcado na jornada rumo à obtenção do meu diploma de bacharel.
@@ -47,7 +46,9 @@ Eu sou Miguel Lucas, um estudante de ciência da computação da UFS (Universida
 
 
 
-
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Obrigado+pela+atenção!;" />
+</h1>
 
 
 
