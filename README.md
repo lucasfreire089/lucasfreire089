@@ -6,7 +6,9 @@
   <p align="center">
 Eu sou Miguel Lucas, um estudante de ciência da computação da UFS (Universidade Federal de Sergipe), atualmente embarcado na jornada rumo à obtenção do meu diploma de bacharel.
   </p>
-  <img align="right" height="150em" src = "https://github.com/lucasfreire089/lucasfreire089/assets/145507011/a705d2e8-304a-4660-86a9-2a3fd20963fc"/>
+  <div> 
+    <img align="right" height="150em" src = "https://github.com/lucasfreire089/lucasfreire089/assets/145507011/a705d2e8-304a-4660-86a9-2a3fd20963fc"/>
+</div>
 
 
 <div align="center">
