@@ -42,5 +42,3 @@
   </h1>
 </div>
 
-
-Certifique-se de substituir os links e informações com os seus próprios dados. Se você tiver mais personalizações ou ajustes específicos em mente, fique à vontade para modificá-lo conforme necessário.
